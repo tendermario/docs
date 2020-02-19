@@ -42,7 +42,7 @@ Your Bounty Snake should be created and available on [play.battlesnake.com](http
 
 [Starter Snakes](https://docs.battlesnake.com/starter-snakes) - A collection of snake templates in a variety of languages designed fast track development.
 
-[Battlenake Official Github](https://github.com/battlesnakeofficial) - The repository for all open source Battlesnake code including starter snakes in a variety of languages and technologies.
+[Battlesnake Official Github](https://github.com/battlesnakeofficial) - The repository for all open source Battlesnake code including starter snakes in a variety of languages and technologies.
 
 ### Bounty Snake Ideas
 
